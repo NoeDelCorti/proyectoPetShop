@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* header */
+header{
+    background-color: orange;
+}
+
+.top-div{
+    background-color: black;
+    color: white;
+}
+
+.left{
+    text-align: left;
+}
+
+.rigth{
+    text-align: right;
+}
+
+/* section heroe */
+
+.heroe{
+    background: aquamarine url(../img/bowl-and-pet-daities-on-green-background\ 1.png);
+    background-size: cover;
+    height: 500px;
+    
+}
